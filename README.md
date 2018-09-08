@@ -44,3 +44,26 @@ Python智能硬件编程之奇妙旅程
 1. UART
     1. UART串口通信
     1. 控制UART彩色液晶显示屏 
+    
+# 所需硬件列表  
+
+1. [Raspberry Pi 3 Model B+](photos/IMG_20180908_121431.jpg) 
+2. [树莓派盒子](photos/IMG_20180908_160102.jpg)
+1. [树莓派配套散热片](photos/IMG_20180909_072859.jpg)
+1. [16G SD卡](photos/IMG_20180908_121401.jpg)
+3. [GPIO 扩展排线](photos/IMG_20180908_121546.jpg)
+4. [GPIO 扩展板](photos/IMG_20180908_121526.jpg)
+5. [面包板](photos/IMG_20180908_121455.jpg)
+6. [LED](photos/IMG_20180908_121318.jpg)
+7. [RGBLED](photos/IMG_20180908_160633.jpg)
+8. [无源蜂鸣器](photos/IMG_20180908_161236.jpg)
+9. [按钮](photos/IMG_20180908_160431.jpg)
+10. [SPI LED 阵列](photos/IMG_20180908_161339.jpg)
+11. [1602 液晶屏](photos/IMG_20180908_161548.jpg)
+12. [IIC 转换器](photos/IMG_20180908_161608.jpg)
+13. [UART 转换线](photos/IMG_20180908_160527.jpg)
+14. [UART 串口屏](photos/IMG_20180908_160249.jpg)
+15. [HDMI 线](photos/IMG_20180909_074508.jpg)
+16. [杜邦线公对母](photos/IMG_20180909_074943.jpg)
+17. [杜邦线公对公](photos/IMG_20180909_075046.jpg)
+18. [杜邦线母对母](photos/IMG_20180909_075311.jpg)
