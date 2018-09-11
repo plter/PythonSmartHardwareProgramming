@@ -1,6 +1,13 @@
 # PythonSmartHardwareProgramming
 Python智能硬件编程之奇妙旅程
 
+# 镜像 
+
+| 镜像名 | 链接地址 |
+| --- | --- |
+| Github | [https://github.com/plter/PythonSmartHardwareProgramming](https://github.com/plter/PythonSmartHardwareProgramming) |
+| Gitee(国内用户访问该地址) | [https://gitee.com/plter/PythonSmartHardwareProgramming](https://gitee.com/plter/PythonSmartHardwareProgramming) |
+
 # 简介
 
 1. Python是一门易于使用功能强大的编程语言，树莓派可以运行完整的Linux操作系统，当然可以完美运行Python语言，那么把Python和树莓派加在一起用来开发智能硬件程序将会非常得心应手。  
