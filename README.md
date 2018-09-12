@@ -1,7 +1,12 @@
 # PythonSmartHardwareProgramming
 Python智能硬件编程之奇妙旅程
 
-# 镜像 
+# 配套视频教程  
+
+* 在线观看： [https://yunp.top/m/course/v/1069](https://yunp.top/m/course/v/1069)
+* 下载视频教程：[https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q](https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q)
+
+# 配套源码镜像 
 
 | 镜像名 | 链接地址 |
 | --- | --- |
