@@ -3,8 +3,8 @@ Python智能硬件编程之奇妙旅程
 
 # 配套视频教程  
 
-* 在线观看： [https://yunp.top/m/course/v/1069](https://yunp.top/m/course/v/1069)
-* 打包下载：[https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q](https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q)
+* 在线观看视频教程： [https://yunp.top/m/course/v/1069](https://yunp.top/m/course/v/1069)
+* 视频教程及配套资源打包下载：[https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q](https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q)
 
 # 配套源码镜像 
 
@@ -18,10 +18,6 @@ Python智能硬件编程之奇妙旅程
 1. Python是一门易于使用功能强大的编程语言，树莓派可以运行完整的Linux操作系统，当然可以完美运行Python语言，那么把Python和树莓派加在一起用来开发智能硬件程序将会非常得心应手。  
 2. 课程在设计时充分考虑到了零基础的同学的难处，所以在学习本课程时您不会觉得有任何障碍，那怕是您从来都没有接触过计算机编程，只要您识数，就能学习。
 3. 课程中所涉及到所有实验项目都很有乐趣，培养动手能力，也非常适合家长带着孩子一起做，培养动手能力与理科思维，从而激发右脑发育。  
-
-# 资源下载 
-
-[https://pan.baidu.com/s/1odsUV5pWVfw2zCgq0OWwFw](https://pan.baidu.com/s/1odsUV5pWVfw2zCgq0OWwFw) 
 
 # 目录
 
@@ -55,7 +51,6 @@ Python智能硬件编程之奇妙旅程
 1. UART
     1. UART串口通信
     1. 控制UART彩色液晶显示屏   
-        [资料下载 https://pan.baidu.com/s/1FJtJuTSRbyKyi3JsNITQiw](https://pan.baidu.com/s/1FJtJuTSRbyKyi3JsNITQiw)
     
 # 硬件列表  
 
