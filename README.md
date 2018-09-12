@@ -6,6 +6,10 @@ Python智能硬件编程之奇妙旅程
 * 在线观看视频教程： [https://yunp.top/m/course/v/1069](https://yunp.top/m/course/v/1069)
 * 视频教程及配套资源打包下载：[https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q](https://pan.baidu.com/s/1Vzs--AdHBQxcs0hYT5WO6Q)
 
+# 购买课程相关硬件 
+
+淘宝：[https://item.taobao.com/item.htm?id=577434843710](https://item.taobao.com/item.htm?id=577434843710)
+
 # 配套源码镜像 
 
 | 镜像名 | 链接地址 |
